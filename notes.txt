@@ -1,0 +1,29 @@
+<!-- Notes -->
+<!-- Usage : 
+
+                HTML | Css | Remix-icons | Swiper Js | GSAP (GreenSock Animation Platform) Animation 
+
+
+Implement smooth animations and transitions with GSAP and add interactivity to our swiper slides using Swiper.js.       
+
+
+Technologies used:
+
+    HTML
+    CSS (Custom styles, Poppins font, and Swiper integration)
+    JavaScript (GSAP for animations, Swiper for slide transitions)
+    Remix icons for icons
+    External CDN for Swiper.js and GSAP libraries
+
+Topics covered:
+
+    How to set up a Swiper-based layout
+    Adding GSAP animations to swiper transitions
+    Styling with custom fonts and CSS animations
+    Creating an engaging product display with interactive slides
+    Don’t forget to subscribe for more frontend design and development tutorials! 👍
+
+
+Tags: swiper.js, gsap animations, frontend development, swiper animation tutorial, swiper js tutorial, gsap tutorial, css animations, HTML swiper, ecommerce webpage design, responsive swiper, moncler theme, web development tutorial
+
+ --> 
